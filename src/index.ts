@@ -84,7 +84,7 @@ const ClaimsAiAssessmentShape = {
 // ---------------------------------------------------------------------------
 
 
-async function main()) {
+async function main() {
   const transport = new StdioServerTransport();
   await server.connect(transport);
 }
